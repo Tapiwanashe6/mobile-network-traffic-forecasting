@@ -21,6 +21,8 @@ The project uses the Telecom Italia Milan telecommunications dataset. Raw record
 
 The raw dataset is **not stored in this repository** because of its size. The notebook accesses the dataset through Kaggle/KaggleHub.
 
+**Dataset:** [Mobile phone activity in a city — Kaggle](https://www.kaggle.com/datasets/marcodena/mobile-phone-activity)
+
 ## Data Processing
 
 The workflow:
@@ -111,8 +113,7 @@ mobile-network-traffic-forecasting/
 ├── requirements.txt
 ├── .gitignore
 ├── formative_assignment.ipynb
-└── report/
-    └── Mobile_Network_Traffic_Forecasting_Final_Report.pdf
+└── Mobile_Network_Traffic_Forecasting_Final_Report.pdf
 ```
 
 ## Installation
@@ -146,11 +147,11 @@ Kaggle authentication/access may be required for dataset download. The raw datas
 
 ## Report
 
-The final research report is stored in the `report/` directory.
+The final research report is available at the repository root as `Mobile_Network_Traffic_Forecasting_Final_Report.pdf`.
 
 ## Video Presentation
 
-The presentation link will be added before final submission.
+[Video Presentation](https://tapiwanashe6.github.io/mobile-network-traffic-forecasting-video/)
 
 ## Author
 
