@@ -21,7 +21,7 @@ The project uses the Telecom Italia Milan telecommunications dataset. Raw record
 
 The raw dataset is **not stored in this repository** because of its size. The notebook accesses the dataset through Kaggle/KaggleHub.
 
-**Dataset:** [Mobile phone activity in a city — Kaggle](https://www.kaggle.com/datasets/marcodena/mobile-phone-activity)
+**Dataset:** [Milan Telecom Traffic 2013 — Kaggle](https://www.kaggle.com/datasets/arsenekabasinga/milan-telecom-traffic-2013/data)
 
 ## Data Processing
 
